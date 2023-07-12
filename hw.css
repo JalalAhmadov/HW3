@@ -1,0 +1,36 @@
+* {
+    background-color: orange;
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+
+}
+
+
+#letter {
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    margin: 80px auto;
+}
+
+#round {
+    padding: 150px;
+    background-color: orangered;
+    display: inline-block;
+    border-radius: 5%;
+    position: relative;
+    top: 50px;
+    right: 90px;
+
+}
+
+h2 {
+
+    position: relative;
+
+}
+
+p {
+    background-color: white;
+}

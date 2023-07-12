@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#card {
+    width: 350px;
+    background-color: antiquewhite;
+    margin: 80px auto;
+    padding: 0 32px 41px;
+    border-radius: 14%;
+    
+    
+}
+
+#circle {
+    padding: 24px;
+    background-color: #3A3054;
+    display: inline-block;
+    border-radius: 50%;
+    position: relative;
+    left: 32px;
+    bottom: 50px;
+}
+h3 {
+bottom: 12px;
+position: relative;
+}
